@@ -168,7 +168,7 @@ body {
 	background-color: var(--selection-btn-color);
 	color: var(--white-bgr-text-color);
 }
-.all-btn {
+.current-btn {
 	background-color: var(--blue-text-color);
 	color: var(--white-bgr-text-color);
 }
